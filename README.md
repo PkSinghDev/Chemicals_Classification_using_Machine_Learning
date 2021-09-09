@@ -16,3 +16,4 @@ This folder consists of two csv files **LogisticXtrain** & **LogisticYtrain**. X
 The folder consists of two files **LogisticXtest** consisting of the features of test data and **sample_output** which represents the format in which the result file should be created.
 
 
+#### [Complete Solution Understanding.](https://medium.com/@pushpendrasinghcod/chemicals-classification-machine-learning-challenge-8acb2a0b3ede)
